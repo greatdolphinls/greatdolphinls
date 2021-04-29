@@ -10,7 +10,7 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 - 🌱 I’m currently learning blockchain technologies
 - 🤔 I’m looking to help with buliding defi and web apps
 - 💬 Ask me about web and blockchain development
-- 📫 How to reach me: evercreativedev@gmail.com
+- 📫 How to reach me: great.dolphin.ls@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
@@ -53,4 +53,4 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-jin-b080401b2/)](https://www.linkedin.com/in/peter-jin-b080401b2/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PeterJi79989015)](https://twitter.com/PeterJi79989015)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steve-jin-102509205/)](https://www.linkedin.com/in/peter-jin-b080401b2/) 
