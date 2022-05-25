@@ -1,5 +1,4 @@
 - 🌱 I’m currently learning blockchain technologies
 - 🤔 I’m looking to help with buliding defi and web apps
 - 💬 Ask me about web and blockchain developmentCancel changes
-- 📫 How to reach me: great.dolphin.ls@gmail.com
 - 😄 Pronouns: He/His
